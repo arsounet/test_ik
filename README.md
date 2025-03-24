@@ -1,2 +1,2 @@
-# infomaniak
-Repositery pour le test de postulation chez Infomaniak
+# Infomaniak
+Dépôt GitHub pour le test de postulation chez Infomaniak

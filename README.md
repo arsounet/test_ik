@@ -1,2 +1,2 @@
 # Infomaniak
-Dépôt GitHub pour le test de postulation chez Infomaniak
+Dépôt GitHub pour le test lors de la postulation chez Infomaniak
